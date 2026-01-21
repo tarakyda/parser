@@ -1,0 +1,5 @@
+.env
+avito_session/
+sent.db
+__pycache__/
+!prices.xlsx.example
